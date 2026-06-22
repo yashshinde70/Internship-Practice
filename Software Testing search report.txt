@@ -1,0 +1,193 @@
+1. What is Software Testing?
+
+Software Testing is the process of verifying and validating software applications to ensure they meet requirements and are free from defects.
+
+Types of Testing
+Manual Testing
+Automation Testing
+API Testing
+Performance Testing
+Security Testing
+Mobile Testing
+Database Testing
+Accessibility Testing
+Cloud Testing
+
+2. Popular Software Testing Technologies
+
+Technology	Purpose
+Java		Automation scripting
+Python		Automation scripting
+Selenium	Web automation
+TestNG		Test execution & reporting
+JUnit		Unit testing
+Maven		Build management
+Git/GitHub	Version control
+Jenkins		CI/CD automation
+Postman		API testing
+Rest Assured	API automation
+JMeter		Performance testing
+SQL/Oracle	Database testing
+Appium		Mobile automation
+Docker		Test environment management
+Jira		Defect tracking
+
+3. Automation Testing Frameworks
+A. Data-Driven Framework
+
+Used When: Testing multiple sets of data.
+
+Example:
+Login functionality with multiple usernames and passwords.
+
+B. Keyword-Driven Framework
+
+Used When: Non-technical testers participate in automation.
+
+C. Hybrid Framework
+
+Used When: Combines Data-Driven and Keyword-Driven approaches.
+
+Most Common in Industry
+
+D. Page Object Model (POM)
+
+Used When: Large web applications.
+
+Benefits:
+
+Better maintenance
+Reusable code
+Easy scalability
+E. BDD Framework
+
+Tools:
+
+Selenium
+Cucumber
+Gherkin
+
+Used For:
+Business-readable test scenarios.
+
+4. Current Industry Demand Frameworks
+Selenium + Java + TestNG + Maven + Jenkins + Git
+
+Most demanded combination for QA Automation Engineers.
+
+API Automation Stack
+Postman
+Rest Assured
+TestNG
+Mobile Automation Stack
+Appium
+Java
+Performance Testing Stack
+JMeter
+LoadRunner
+5. Required Skillset for Software Tester
+Manual Testing
+
+✅ SDLC
+
+✅ STLC
+
+✅ Test Case Writing
+
+✅ Defect Life Cycle
+
+✅ Agile Methodology
+
+✅ Jira
+
+Automation Testing
+
+✅ Core Java
+
+✅ OOP Concepts
+
+✅ Selenium WebDriver
+
+✅ TestNG
+
+✅ Maven
+
+✅ Git/GitHub
+
+✅ Jenkins
+
+Database Testing
+
+✅ SQL Queries
+
+✅ Joins
+
+✅ Subqueries
+
+✅ Constraints
+
+API Testing
+
+✅ Postman
+
+✅ Rest Assured
+
+✅ JSON
+
+✅ HTTP Methods
+
+6. Career Opportunities
+Entry Level
+QA Trainee
+Test Engineer
+Associate QA
+
+Salary (India):
+₹3 LPA – ₹6 LPA
+
+Mid Level (3–5 Years)
+Automation Test Engineer
+SDET
+Performance Tester
+API Tester
+
+Salary:
+₹6 LPA – ₹15 LPA
+
+Senior Level
+QA Lead
+Test Architect
+QA Manager
+
+Salary:
+₹15 LPA – ₹35+ LPA
+
+7. Future Scope (2026–2030)
+High Demand Areas
+1. AI Testing
+
+Testing AI and Machine Learning applications.
+
+2. SDET Roles
+
+Software Development Engineer in Test.
+
+3. API Automation
+
+Increasing demand due to microservices architecture.
+
+4. Cloud Testing
+
+Testing applications on cloud platforms.
+
+5. DevOps + Testing
+
+CI/CD integrated testing.
+
+6. Mobile Automation
+
+Growing demand for Android and iOS app testing.
+
+7. Security Testing
+
+Cybersecurity-focused testing roles.
